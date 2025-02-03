@@ -36,7 +36,7 @@ This project is an alert system that sends real-time NBA game day score notifica
 
 ## **Project Structure**
 ```bash
-game-day-notifications/
+GameDayNotification/
 ├── src/
 │   ├── gd_notifications.py          # Main Lambda function code
 ├── policies/
@@ -52,7 +52,7 @@ game-day-notifications/
 ### **Clone the Repository**
 ```bash
 git clone https://github.com/Josev-Olapade/GameDayNotification.git
-cd game-day-notifications
+cd GameDayNotification
 ```
 
 ### **Create an SNS Topic**
